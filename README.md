@@ -1,3 +1,6 @@
+![Recipe_App](https://user-images.githubusercontent.com/9675246/181091259-1c16ca2b-6964-4403-aa8d-654b9a9818e7.gif)
+
+
 # What is this project?
 This course will replace my old java mvvm introduction: [https://codingwithmitch.com/courses/rest-api-mvvm-retrofit2/](https://codingwithmitch.com/courses/rest-api-mvvm-retrofit2/).
 
